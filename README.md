@@ -32,7 +32,7 @@ NLWeb is platform-agnostic and supports:
 
 * **Operating systems**: Windows, macOS, Linux
 * **Vector stores**: Qdrant, Snowflake, Milvus, Azure AI Search
-* **LLMs**: OpenAI, DeepSeek, Gemini, Anthropic, Inception
+* **LLMs**: OpenAI, DeepSeek, Gemini, Anthropic, Inception, Local
 
 It is designed to be lightweight and scalable — capable of running on everything from data center clusters to laptops and, soon, mobile devices.
 

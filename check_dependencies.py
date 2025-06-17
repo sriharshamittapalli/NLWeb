@@ -29,6 +29,7 @@ class DependencyChecker:
             "inception": ["aiohttp>=3.9.1"],
             "snowflake": ["httpx>=0.28.1"],
             "huggingface": ["huggingface_hub>=0.31.0"],
+            "local": ["transformers>=4.38.0"],
         }
         
         # Mapping of database types to their required packages

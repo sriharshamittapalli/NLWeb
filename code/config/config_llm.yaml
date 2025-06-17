@@ -73,3 +73,10 @@ endpoints:
     models:
       high: Qwen/Qwen2.5-72B-Instruct
       low: Qwen/Qwen2.5-Coder-7B-Instruct
+
+  local:
+    api_endpoint_env: LOCAL_LLM_MODEL_PATH
+    llm_type: local
+    models:
+      high: local-model
+      low: local-model
